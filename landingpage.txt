@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unlock Your Path to Online Success</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            background: #f4f4f4; 
+        }
+        .container { 
+            max-width: 600px; 
+            margin: auto; 
+            padding: 20px; 
+            background: white; 
+            border-radius: 8px; 
+            box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+            text-align: center; 
+        }
+        h1 { 
+            color: #333; 
+        }
+        .cta { 
+            background: #28a745; 
+            color: white; 
+            padding: 10px 20px; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+        }
+        input { 
+            width: 100%; 
+            padding: 10px; 
+            margin: 10px 0; 
+            border: 1px solid #ccc; 
+            border-radius: 5px; 
+        }
+        ul {
+            list-style-type: none; 
+            padding: 0; 
+        }
+        li {
+            margin: 5px 0; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Unlock Your Path to Online Success!</h1>
+        <p>Get your free guide and discover proven strategies to drive traffic to your website.</p>
+        <ul>
+            <li>Learn how to build an email list that generates income.</li>
+            <li>Get step-by-step instructions that anyone can follow.</li>
+        </ul>
+        <form action="your_form_action_url" method="POST">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <button type="submit" class="cta">Get My Free Guide!</button>
+        </form>
+        <p>Thank you for signing up! Check your email for your free guide.</p>
+    </div>
+</body>
+</html>
